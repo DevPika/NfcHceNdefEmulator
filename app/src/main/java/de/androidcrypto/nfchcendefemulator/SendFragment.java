@@ -47,7 +47,7 @@ public class SendFragment extends Fragment {
     com.google.android.material.textfield.TextInputLayout dataToSendLayout;
     com.google.android.material.textfield.TextInputEditText dataToSend;
     //private final String DEFAULT_URL = "https://www.google.de/maps/@34.7967917,-111.765671,3a,66.6y,15.7h,102.19t/data=!3m6!1e1!3m4!1sFV61wUEyLNwFi6zHHaKMcg!2e0!7i16384!8i8192";
-    private final String DEFAULT_URL = "https://github.com/AndroidCrypto?tab=repositories";
+    private final String DEFAULT_URL = "https://devpika.github.io";
 
     public SendFragment() {
         // Required empty public constructor
